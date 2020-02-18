@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/Q6/wp/MD5E-s270--81c78c66a907c6c1aa89b2e1b95aa4ac.cls/MD5E-s270--81c78c66a907c6c1aa89b2e1b95aa4ac.cls
