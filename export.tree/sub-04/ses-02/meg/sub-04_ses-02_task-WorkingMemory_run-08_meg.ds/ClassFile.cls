@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/vx/qm/MD5E-s270--b7dabe1d88485770dc17f5e97e28e3f4.cls/MD5E-s270--b7dabe1d88485770dc17f5e97e28e3f4.cls
