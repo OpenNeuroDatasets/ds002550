@@ -1,6 +1,0 @@
-**/sub-*/ses-*/meg/sub-*_ses-*_task-*_meg.ds/sub-*_ses-*_task-*_meg.eeg
-**/sub-*/ses-*/meg/sub-*_ses-*_task-*_meg.ds/bad.segments
-**/sub-*/ses-*/meg/sub-*_ses-*_task-*_meg.ds/BadChannels
-**/sub-*/ses-*/meg/sub-*_ses-*_task-*_meg.ds/hz*.ds/BadChannels
-**/sub-*/ses-*/behavdata/*
-**/sub-*/ses-*/hpi/*
