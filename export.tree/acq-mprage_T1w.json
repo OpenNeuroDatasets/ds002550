@@ -1,8 +1,0 @@
-{
-    "RepetitionTime": 1.9,
-    "EchoTime": 0.00213,
-    "Manufacturer": "Siemens",
-    "ManufacturersModelName": "SKYRA",
-    "MagneticFieldStrength": 3,
-    "PulseSequenceType": "MPRAGE"
-}
